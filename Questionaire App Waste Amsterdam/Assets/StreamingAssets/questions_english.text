@@ -1,0 +1,56 @@
+14
+//Verschijnt voor 10 seconden.
+Think about furniture that you recently threw away or got replaced.
+NotAQuestion
+
+Fill in a name:
+OpenQuestion
+
+You have recently decided to break up with [/NAME]. Now some questions are asked about your relationship with [/NAME].
+NotAQuestion
+
+How long did you relationship last with [/NAME]?
+OpenQuestion
+
+When did the break up occur?
+OpenQuestion
+
+Where did you see your ex for the last time?
+OpenQuestion
+
+Pay attention, this is an audio question! Touch the square button to record your answer. What were the good qualities of [NAME]?
+RecordQuestion
+
+Pay attention, this is an audio question! Touch the square button to record your answer. Why did you end your relationship with [NAME]?
+RecordQuestion
+
+Sometimes thinks don’t go as planned… Did you replace [/NAME] with someone else?
+MultipleChoice
+2
+Yes
+No
+
+Thanks for your participation! This research is part of a larger research concerning the bulky waste problem in Amsterdam and is done in the name of the municipality of Amsterdam.We now continue this survey with a few short questions about your current knowledge about the rules and regulations concerning bulky waste in Amsterdam.
+NotAQuestion
+
+Each district in Amsterdam has their own rules and regulations concerning bulky waste. Are you aware of the rules that are applied to the district that you live in?
+MultipleChoice
+2
+Yes
+No
+
+Amsterdam currently has six waste points. Were you already aware of the existence of these points prior the survey?
+MultipleChoice
+2
+Yes
+No
+
+Have you visited a waste point in Amsterdam in the past? If not, why not?
+OpenQuestion
+
+Thanks for your response! The municipality of Amsterdam aspires to have a cleaner city and appreciates the input of its citizens to achieve this. Do you give permission to them to process your response to this survey anonymously?
+MultipleChoice
+2
+Yes
+No
+

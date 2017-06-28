@@ -1,0 +1,55 @@
+14
+// Verschijnt voor 10 seconden.
+Denk na over meubilair dat u onlangs heeft weggegooid of vervangen. 
+NotAQuestion
+
+Voer een naam in:
+OpenQuestion
+
+U heeft onlangs besloten uw relatie te beëindigen met [/NAAM]. Er volgen nu enkele vragen over uw relatie met [/NAAM].
+NotAQuestion
+
+Hoelang heeft u een relatie gehad met [/NAAM]?
+OpenQuestion
+
+Wanneer vond de break up plaats?
+OpenQuestion
+
+Waar heeft u uw ex voor het laatst gezien?
+OpenQuestion
+
+Let op! Dit is een audio-opname vraag. Tik het vierkantje aan om uw antwoord op te nemen. Wat waren de goede kwaliteiten van [NAAM]?  
+RecordQuestion
+
+Let op! Dit is een audio-opname vraag. Tik het vierkantje aan om uw antwoord op te nemen.  Waarom heeft u de  relatie met [NAAM] beëindigd?
+RecordQuestion
+
+Soms gaan dingen niet zoals gepland… Heeft u [NAAM] vervangen met iemand anders?
+MultipleChoice
+2
+Ja
+Nee
+
+Bedankt voor uw deelname! Dit onderzoek is deel van een groter onderzoek naar het grofvuil probleem in Amsterdam en wordt gedaan in opdracht van de gemeente Amsterdam. Er volgen nog enkele korte vragen over uw huidige kennis met betrekking tot de grofvuil regelingen in Amsterdam.
+NotAQuestion
+
+Elk district in Amsterdam kent zijn eigen regelingen omtrent grofvuil. Bent u op de hoogte van de regelingen die gelden binnen uw district?
+MultipleChoice
+2
+Ja
+Nee
+
+Amsterdam kent op dit moment zes afvalpunten. Wist u reeds van het bestaan hiervan?
+MultipleChoice
+2
+Ja
+Nee
+
+Heeft u wel eens een afvalpunt in Amsterdam bezocht? Indien nee, waarom niet?
+OpenQuestion
+
+Bedankt voor uw respons! De gemeente Amsterdam streeft naar een schoner Amsterdam en waardeert hierbij de input van haar bevolking. Geeft u de gemeente Amsterdam toestemming om uw respons anoniem te verwerken?
+MultipleChoice
+2
+Ja
+Nee

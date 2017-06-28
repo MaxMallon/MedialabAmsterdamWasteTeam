@@ -1,0 +1,10 @@
+verbeter punten
+
+-zelfde kleur blauw
+-escape werkt op titlescreen
+-text 'You were:' op het reveal scherm
+-text 'hit space' op reveal scherm niet laten clippen.
+-x-personas unflippen - f*ck that, all choices are final
+-x-geflipte personas het speciale zwartplaatje laten gebruiken
+-in the reveal screen, add the persona name/category
+-maybe in the persona tiles add their group/name as well.

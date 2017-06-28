@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Scenes/menu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/transitionScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/playField.unity
+  isLoaded: 0
+  isActive: 0

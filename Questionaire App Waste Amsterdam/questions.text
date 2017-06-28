@@ -1,0 +1,24 @@
+//Alle regels met // worden genegeerd
+//1e regel bevat aantal vragen.
+3
+//2e regel bevat de 1e vraag
+What is this?
+//1e regel na een vraag vraag, er bestaan de types "MultipleChoice", "OpenQuestion", "RecordQuestion", "NotAQuestion"
+MultipleChoice
+//1e regel na het type "MultipleChoice" bevat het aantal antwoorden.
+3
+//het aantal aangegeven antwoorden regels daarna bevat de antwoorden.
+answer1
+answer2
+answer3
+
+//witregels zijn oke
+//Na de antwoorden komt de volgende vraag.
+
+How to do that?
+//de types die niet multiplechoice zijn hebben geen antwoorden, en gaan meteen door naar de volgende vraag.
+OpenQuestion
+
+Is this true?
+OpenQuestion
+//maak geen meer vragen of antwoorden dan dat je aangeeft.

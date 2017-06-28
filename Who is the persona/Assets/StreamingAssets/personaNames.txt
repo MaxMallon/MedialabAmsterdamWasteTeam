@@ -1,0 +1,14 @@
+Female Student
+Male Student
+64+ Woman
+Non-Western Female Immigrant
+Non-Western Male Immigrant
+64+ Man
+High Income Lady
+Western Female Immigrant
+Dutch Woman
+Moroccan / Middle-Eastern Man
+Western Male Immigrant
+Moroccan / Middle-Eastern Woman
+Dutch Man
+Family
